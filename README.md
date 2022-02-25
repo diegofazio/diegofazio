@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/diegofazio/diegofazio/blob/main/img/code.gif?raw=true" width="450" height="300" />
 
-## Hey, I'm ***Diego H.Fazio!*** 👋 
+## Hey, I'm [Diego H.Fazio](https://github.com/diegofazio/diegofazio) 👋 
 
 A Programmer and Engineer from Argentina.
 
