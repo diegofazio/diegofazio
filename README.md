@@ -1,5 +1,5 @@
 <img align="right" alt="GIF" src="https://github.com/diegofazio/diegofazio/blob/main/img/code.gif?raw=true" width="450" height="300" />
-<img src='https://github.com/diegofazio/diegofazio/blob/main/img/logo con marca.png' height='90'/>
+<img src='https://github.com/diegofazio/diegofazio/blob/main/img/logo con marca.png' height='100'/>
 
 ## Hey, I'm [Diego H.Fazio](https://github.com/diegofazio/diegofazio) 👋 
 
